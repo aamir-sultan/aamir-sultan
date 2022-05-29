@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-I'm currently working UVM based verification projects
-I'm trying find collaboration on the open source flow for surelog and UHDM
+- 🔭 I'm currently working UVM based verification projects.
+- 🤔 I'm trying find collaboration on the open source flow for surelog and UHDM
 
 ## 🌐Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Aamir Sultan ) 

@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <!---->
-<!-- <!-- -->
+<!---->
 <!-- **aamir-sultan/aamir-sultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!---->
 <!-- Here are some ideas to get you started: -->
@@ -13,7 +13,7 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<!-- --> -->
+<!-- -->
 <!-- # 💫About Me : -->
 <!-- - 🔭 I'm currently working UVM based verification projects. -->
 <!-- - 🤔 I'm trying find collaboration on the open source flow for surelog and UHDM -->
@@ -35,7 +35,7 @@
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) -->
 <!---->
 <!-- <!-- ### 😂Random Dev Meme -->
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> --> -->
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 <!---->
 <!-- --- -->
 <!-- [![](https://visitcount.itsvg.in/api?id=aamir-sultan&icon=0&color=6)](https://visitcount.itsvg.in) -->
